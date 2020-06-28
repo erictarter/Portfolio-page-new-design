@@ -244,11 +244,11 @@ body {
   bottom: 0;
   left: 50%;
   font-size: 2rem;
+  transform: translate(-50%);
 }
 
 .scroll-up:hover {
   transition: all 0.2s ease;
-  transform: scale(1.3);
 }
 
 .up-arrow {
@@ -336,12 +336,12 @@ body {
   }
 
   .social-intro {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
   }
 
   .social-icons a {
     cursor: pointer;
-    font-size: 1.4rem;
+    font-size: 2.4rem;
     color: white;
     margin: 0.2rem;
   }
@@ -369,17 +369,6 @@ body {
   }
   .intro {
     display: none;
-  }
-
-  .social-intro {
-    font-size: 1rem;
-  }
-
-  .social-icons a {
-    cursor: pointer;
-    font-size: 1.4rem;
-    color: white;
-    margin: 0.2rem;
   }
 }
 
