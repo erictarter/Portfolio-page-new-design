@@ -336,20 +336,20 @@ body {
   }
 
   .social-intro {
-    font-size: 1rem;
+    font-size: 1.4rem;
   }
 
   .social-icons a {
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1.4rem;
     color: white;
-    margin: 0.7rem;
+    margin: 0.2rem;
   }
 }
 
 @media (max-width: 400px) {
   .overlay {
-    height: 3050px;
+    height: 3250px;
   }
   .main {
     max-width: 85%;
@@ -382,7 +382,7 @@ body {
 
 @media (max-width: 320px) {
   .overlay {
-    height: 3050px;
+    height: 3250px;
   }
   .intro {
     font-size: 1rem;
