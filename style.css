@@ -314,7 +314,7 @@ body {
 
 @media (max-width: 550px) {
   .overlay {
-    height: 2850px;
+    height: 3250px;
   }
 
   .main {
@@ -344,6 +344,9 @@ body {
     font-size: 1.4rem;
     color: white;
     margin: 0.2rem;
+  }
+  .social-image {
+    width: 40%;
   }
 }
 
