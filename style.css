@@ -328,19 +328,28 @@ body {
   }
 
   .intro {
-    font-size: 1.2rem;
-    margin-left: 1rem;
-    font-weight: 600;
+    display: none;
   }
   .page-links {
     font-size: 1rem;
     margin-left: auto;
   }
+
+  .social-intro {
+    font-size: 1rem;
+  }
+
+  .social-icons a {
+    cursor: pointer;
+    font-size: 1rem;
+    color: white;
+    margin: 0.7rem;
+  }
 }
 
 @media (max-width: 400px) {
   .overlay {
-    height: 2950px;
+    height: 3050px;
   }
   .main {
     max-width: 85%;
@@ -358,11 +367,22 @@ body {
   .intro {
     display: none;
   }
+
+  .social-intro {
+    font-size: 1rem;
+  }
+
+  .social-icons a {
+    cursor: pointer;
+    font-size: 1.4rem;
+    color: white;
+    margin: 0.2rem;
+  }
 }
 
 @media (max-width: 320px) {
   .overlay {
-    height: 2950px;
+    height: 3050px;
   }
   .intro {
     font-size: 1rem;
