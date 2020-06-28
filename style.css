@@ -340,7 +340,7 @@ body {
 
 @media (max-width: 400px) {
   .overlay {
-    height: 2850px;
+    height: 2950px;
   }
   .main {
     max-width: 85%;
@@ -372,5 +372,8 @@ body {
   .page-links {
     font-size: 0.8rem;
     margin-left: auto;
+  }
+  .intro {
+    display: none;
   }
 }
