@@ -314,7 +314,7 @@ body {
 
 @media (max-width: 550px) {
   .overlay {
-    height: 3250px;
+    height: 3050px;
   }
 
   .main {
@@ -346,13 +346,13 @@ body {
     margin: 0.2rem;
   }
   .social-image {
-    width: 40%;
+    width: 50%;
   }
 }
 
 @media (max-width: 400px) {
   .overlay {
-    height: 3250px;
+    height: 3050px;
   }
   .main {
     max-width: 85%;
@@ -385,7 +385,7 @@ body {
 
 @media (max-width: 320px) {
   .overlay {
-    height: 3250px;
+    height: 3050px;
   }
   .intro {
     font-size: 1rem;
