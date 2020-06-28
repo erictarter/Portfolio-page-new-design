@@ -314,7 +314,7 @@ body {
 
 @media (max-width: 550px) {
   .overlay {
-    height: 3050px;
+    height: 2950px;
   }
 
   .main {
@@ -341,7 +341,7 @@ body {
 
   .social-icons a {
     cursor: pointer;
-    font-size: 2.4rem;
+    font-size: 2.8rem;
     color: white;
     margin: 0.2rem;
   }
@@ -352,7 +352,7 @@ body {
 
 @media (max-width: 400px) {
   .overlay {
-    height: 3050px;
+    height: 2950px;
   }
   .main {
     max-width: 85%;
@@ -362,7 +362,7 @@ body {
   }
 
   .social-icons a {
-    font-size: 2rem;
+    font-size: 2.8rem;
   }
   .social-intro {
     font-size: 2rem;
@@ -374,7 +374,7 @@ body {
 
 @media (max-width: 320px) {
   .overlay {
-    height: 3050px;
+    height: 2950px;
   }
   .intro {
     font-size: 1rem;
@@ -387,5 +387,12 @@ body {
   }
   .intro {
     display: none;
+  }
+
+  .social-icons a {
+    font-size: 2rem;
+  }
+  .social-intro {
+    font-size: 2rem;
   }
 }
