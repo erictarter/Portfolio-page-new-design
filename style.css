@@ -359,7 +359,7 @@ body {
 
 @media (max-width: 400px) {
   .overlay {
-    height: 3150px;
+    height: 3300px;
   }
   .main {
     max-width: 85%;
@@ -381,7 +381,7 @@ body {
 
 @media (max-width: 320px) {
   .overlay {
-    height: 3250px;
+    height: 3350px;
   }
   .intro {
     font-size: 1rem;
