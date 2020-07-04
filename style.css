@@ -26,7 +26,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  height: 1850px;
+  height: 2050px;
   width: 100vw;
   background: rgba(255, 255, 255, 0.849);
 }
@@ -107,9 +107,13 @@ body {
 }
 .about-header {
   margin-bottom: 1.4rem;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 4rem;
 }
 .about-me {
   line-height: 1.6;
+  font-size: 1.3rem;
 }
 
 .programming {
@@ -118,6 +122,7 @@ body {
 
 .programming-heading {
   margin-bottom: 1.4rem;
+  font-size: 2rem;
 }
 
 .languages-frameworks {
@@ -132,6 +137,8 @@ body {
 
 .projects-header {
   margin-top: 4rem;
+  text-align: center;
+  font-size: 3rem;
 }
 
 .section-projects {
@@ -259,7 +266,7 @@ body {
 
 @media (max-width: 1000px) {
   .overlay {
-    height: 2150px;
+    height: 2350px;
   }
 
   .shorten {
@@ -286,7 +293,7 @@ body {
 
 @media (max-width: 700px) {
   .overlay {
-    height: 2100px;
+    height: 2400px;
   }
 
   .page-links {
@@ -314,7 +321,7 @@ body {
 
 @media (max-width: 550px) {
   .overlay {
-    height: 2950px;
+    height: 3150px;
   }
 
   .main {
@@ -352,7 +359,7 @@ body {
 
 @media (max-width: 400px) {
   .overlay {
-    height: 2950px;
+    height: 3150px;
   }
   .main {
     max-width: 85%;
@@ -374,7 +381,7 @@ body {
 
 @media (max-width: 320px) {
   .overlay {
-    height: 2950px;
+    height: 3250px;
   }
   .intro {
     font-size: 1rem;
@@ -396,3 +403,8 @@ body {
     font-size: 2rem;
   }
 }
+
+/* SEEING WHAT MY STATUS IS   -  IF  I NEED TO PAY IT */
+/* I LIVE IN GRESHAM  - I HAVE LIVED HERE SINCE 2018 */
+/* LETTER REMINDING ME TO PAY THE TAX */
+/* LETTER SAID NEXT YEAR I DONT HAVE TO PAY */
