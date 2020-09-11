@@ -4,10 +4,11 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  /* color: white; */
 }
 
 a {
-  color: black;
+  color: white;
   margin: 0 0.3rem;
   padding-bottom: 0.4rem;
 }
@@ -28,7 +29,7 @@ a {
   left: 0;
   height: 2050px;
   width: 100vw;
-  background: rgba(255, 255, 255, 0.849);
+  background: rgba(0, 0, 0, 0.449);
 }
 
 body {
@@ -51,6 +52,7 @@ body {
   display: flex;
   align-items: center;
   margin-top: 2rem;
+  color: white;
 }
 
 .profile-img {
@@ -70,6 +72,7 @@ body {
   font-size: 1.8rem;
   margin-left: 1rem;
   font-weight: 600;
+  color: white;
 }
 .page-links {
   margin-top: 0.6rem;
@@ -80,6 +83,7 @@ body {
 .projects-link {
   border-bottom: 2px solid transparent;
   transition: all 0.3s ease;
+  color: white;
 }
 
 .projects-link:hover {
@@ -104,6 +108,7 @@ body {
 
 .bio {
   margin-top: 3rem;
+  color: white;
 }
 .about-header {
   margin-bottom: 1.4rem;
@@ -139,6 +144,7 @@ body {
   margin-top: 4rem;
   text-align: center;
   font-size: 3rem;
+  color: white;
 }
 
 .section-projects {
@@ -147,6 +153,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 3rem;
   text-align: center;
+  color: white;
 }
 
 .section-projects .project-img {
@@ -183,8 +190,8 @@ body {
     no-repeat center center/cover;
 }
 
-.section-projects .covid {
-  background: url('https://images.unsplash.com/photo-1584118624012-df056829fbd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80')
+.section-projects .keyboard {
+  background: url('https://images.unsplash.com/photo-1523297554394-dc159677ffe1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60')
     no-repeat center center/cover;
 }
 
@@ -244,6 +251,7 @@ body {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
+  color: white;
 }
 
 .scroll-up {
